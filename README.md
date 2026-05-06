@@ -1,4 +1,4 @@
-![Banner](https://github.com/NiklavsGerkens/NiklavsGerkens/blob/main/banner.png)
+![Banner](https://github.com/NiklavsGerkens/NiklavsGerkens/blob/main/header.png)
 
 ---
 
